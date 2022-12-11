@@ -4,7 +4,7 @@
 import { useState } from "react"
 import { useEffect } from "react"
  function App() {
-  let [quote,setquote]=useState({id:1,advice:"Trust Your Guts!"})
+  let [quote,setquote]=useState({id:1,advice:"Enjoy your life"})
 
 const fetcho = async()=>{
   try{
