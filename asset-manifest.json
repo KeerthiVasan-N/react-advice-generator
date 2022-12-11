@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/github.io/react-advice-generator/static/css/main.b4bcdf96.css",
-    "main.js": "/github.io/react-advice-generator/static/js/main.238ac565.js",
+    "main.js": "/github.io/react-advice-generator/static/js/main.9a64c85d.js",
     "index.html": "/github.io/react-advice-generator/index.html",
     "static/media/icon-dice.svg": "/github.io/react-advice-generator/static/media/icon-dice.08691e4c24c11b5ba564e06b1f6bcbf3.svg",
     "static/media/pattern-divider-desktop.svg": "/github.io/react-advice-generator/static/media/pattern-divider-desktop.ed9685263f6b47d21c8848f7d8bdd10e.svg",
     "static/media/pattern-divider-mobile.svg": "/github.io/react-advice-generator/static/media/pattern-divider-mobile.aca38726412164df099c43d4f2fed72e.svg",
     "main.b4bcdf96.css.map": "/github.io/react-advice-generator/static/css/main.b4bcdf96.css.map",
-    "main.238ac565.js.map": "/github.io/react-advice-generator/static/js/main.238ac565.js.map"
+    "main.9a64c85d.js.map": "/github.io/react-advice-generator/static/js/main.9a64c85d.js.map"
   },
   "entrypoints": [
     "static/css/main.b4bcdf96.css",
-    "static/js/main.238ac565.js"
+    "static/js/main.9a64c85d.js"
   ]
 }
